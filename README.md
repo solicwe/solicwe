@@ -2,7 +2,6 @@
 
 <p align="center">
   Computer Engineering Student (CPE) @ Srinakharinwirot University (SWU)<br/>
-  Passionate about Web Development, Software Engineering, and Database Systems.
 </p>
 
 ---
