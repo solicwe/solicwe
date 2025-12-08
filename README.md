@@ -33,14 +33,14 @@ A modern web application designed for university students to calculate GPA, stor
 - Clean UI with modern React components
 
 **Live Demo:** https://tede-c7e37.web.app/  
-**Source Code:** [*https://github.com/BEMO-Panu/CPE204/*](https://github.com/BEMO-Panu/CPE204) **
+**Source Code:** [*https://github.com/BEMO-Panu/CPE204/*](https://github.com/BEMO-Panu/CPE204)
 
 ---
 
 ## Contact
 - Email: **prem25.sorawit@gmail.com**
 - Phone: **(+66) 094-017-5289**
-- GitHub: ** [*https://github.com/solicwe/*](https://github.com/solicwe) **
+- GitHub: **[*https://github.com/solicwe/*](https://github.com/solicwe)**
 
 ---
 
