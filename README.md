@@ -12,7 +12,7 @@
 `React.js` · `JavaScript` · `HTML` · `CSS` · `Vite`
 
 **Backend:**  
-`Node.js` · `Firebase Cloud Functions` · `SQL` .
+`Node.js` · `Firebase Cloud Functions` · `SQL` . `Python` . `C`
 
 **Database:**  
 `Firestore` · `SQL` · `ER Modeling` . `Xampp`
