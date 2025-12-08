@@ -44,4 +44,4 @@ A modern web application designed for university students to calculate GPA, stor
 
 ---
 
-### If you like my work, feel free to star my repositories!
+### If you like my work, feel free to star.
