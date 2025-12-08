@@ -17,7 +17,7 @@
 `Firestore` · `SQL` · `ER Modeling` · `Xampp`
 
 **Tools:**  
-`Git` · `GitHub` · `VS Code` · `Figma`
+`Git` · `GitHub` · `VS Code`
 
 ---
 
