@@ -8,7 +8,7 @@
 
 ## Tech Stack
 **Frontend:**  
-`React.js` · `JavaScript` · `HTML` · `CSS` · `Vite`
+`React.js` · `JavaScript` · `HTML` · `CSS`
 
 **Backend:**  
 `Node.js` · `Firebase Cloud Functions` · `SQL` · `Python` · `C`
@@ -20,6 +20,11 @@
 `Git` · `GitHub` · `VS Code`
 
 ---
+**PortFolio :** https://solicwe.github.io/PORTFOLIO/
+
+
+---
+
 
 ## Featured Project — TedE Web
 A modern web application designed for university students to calculate GPA, store grades, and compete on a live leaderboard.
