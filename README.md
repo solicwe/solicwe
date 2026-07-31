@@ -36,9 +36,6 @@ A modern web application designed for university students to calculate GPA, stor
 - Score tracking & academic analytics
 - Clean UI with modern React components
 
-**Live Demo:** https://tede-c7e37.web.app/  
-**Source Code:** [*https://github.com/BEMO-Panu/CPE204/*](https://github.com/BEMO-Panu/CPE204)
-
 ---
 
 ## Contact
