@@ -26,17 +26,6 @@
 ---
 
 
-## Featured Project — TedE Web
-A modern web application designed for university students to calculate GPA, store grades, and compete on a live leaderboard.
-
-**Features:**
-- Secure login & signup (Firebase + Backend API)
-- GPA / GPAX Calculator
-- Real-time Leaderboard system
-- Score tracking & academic analytics
-- Clean UI with modern React components
-
----
 
 ## Contact
 - Email: **prem25.sorawit@gmail.com**
