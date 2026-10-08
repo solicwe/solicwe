@@ -5,21 +5,6 @@
 </p>
 
 ---
-
-## Tech Stack
-**Frontend:**  
-`React.js` · `JavaScript` · `HTML` · `CSS`
-
-**Backend:**  
-`Node.js` · `Firebase Cloud Functions` · `SQL` · `Python` · `C`
-
-**Database:**  
-`Firestore` · `SQL` · `ER Modeling` · `Xampp`
-
-**Tools:**  
-`Git` · `GitHub` · `VS Code`
-
----
 **PortFolio :** https://solicwe.github.io/PORTFOLIO/
 
 
